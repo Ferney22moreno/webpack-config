@@ -8,7 +8,7 @@ remember to rebuild node_modules
 npm install
 ```
 
-and to rebuild the dist folder, just remember
+and to rebuild the dist folder, just remember:
 ```
 npm run build
 ```
